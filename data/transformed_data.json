@@ -1,0 +1,13 @@
+{
+    "TotalCases": 704753890,
+    "TotalDeaths": 7010681,
+    "TotalRecovered": 675619811,
+    "ActiveCases": 22123398,
+    "CriticalCases": 34794,
+    "AffectedCountries": 231,
+    "TestsConducted": 7026505313,
+    "Population": 7944935131,
+    "CasesPerMillion": 90413,
+    "DeathsPerMillion": 899.4,
+    "TestsPerMillion": 884400.59
+}

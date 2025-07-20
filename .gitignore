@@ -1,0 +1,17 @@
+# Ignore Python virtual environments
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore data/output files
+*.csv
+*.db
+
+# Ignore plots and images
+*.png
+*.jpg
+
+# VS Code settings
+.vscode/
